@@ -1,4 +1,5 @@
 # RailsGoat [![Build Status](https://api.travis-ci.org/OWASP/railsgoat.png?branch=master)](https://travis-ci.org/OWASP/railsgoat) [![Code Climate](https://codeclimate.com/github/OWASP/railsgoat.png)](https://codeclimate.com/github/OWASP/railsgoat)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRevFossa%2Frailsgoat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRevFossa%2Frailsgoat?ref=badge_shield)
 
 RailsGoat is a vulnerable version of the Ruby on Rails Framework from versions 3 to 5. It includes vulnerabilities from the OWASP Top 10, as well as some "extras" that the initial project contributors felt worthwhile to share. This project is designed to educate both developers, as well as security professionals.
 
@@ -141,3 +142,6 @@ Conversion to the OWASP Top Ten 2013 completed in November, 2013.
 # License
 
 [The MIT License (MIT)](./LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRevFossa%2Frailsgoat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRevFossa%2Frailsgoat?ref=badge_large)
